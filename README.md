@@ -16,4 +16,4 @@ This is a simple e-commerce application built using Flutter. However, I acknowle
 - Figma (design and prototyping)
 - Getx (state management and navigation)
 - Dio (HTTP client for making API requests)
-- [Api](https://fakestoreapi.com/) (source of product data)
+- Api using fakestoreapi.com (source of product data)
