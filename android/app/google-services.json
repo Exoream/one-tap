@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "430639775418",
+    "project_id": "onetap-dc5a5",
+    "storage_bucket": "onetap-dc5a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430639775418:android:bae5f7336933287aaf0c83",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtX4Pg16wL_SbhUYspjR_9X51MLoNiz_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
