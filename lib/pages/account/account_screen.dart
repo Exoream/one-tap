@@ -139,7 +139,7 @@ class _AccountScreenState extends State<AccountScreen> {
               leading: const Icon(Icons.exit_to_app),
               title: const Text('Logout'),
               onTap: () {
-                Get.offNamed(RoutesNamed.login);
+                Get.offAllNamed(RoutesNamed.login);
               },
             ),
           ],

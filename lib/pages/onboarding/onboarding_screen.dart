@@ -77,7 +77,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                   child: Center(
                     child: ElevatedButton(
                       onPressed: () {
-                        Get.toNamed(RoutesNamed.login);
+                        Get.offNamed(RoutesNamed.login);
                       },
                       style: ElevatedButton.styleFrom(
                         backgroundColor: Colors.white,
