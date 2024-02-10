@@ -56,7 +56,7 @@ class ProductScreen extends StatelessWidget {
                         padding: const EdgeInsets.all(8.0),
                         child: InkWell(
                           onTap: () {
-                            Get.offNamed(
+                            Get.toNamed(
                               RoutesNamed.productDetail,
                               arguments: product.id,
                             );
